@@ -20,6 +20,7 @@ When the “add to list” button is pressed by the user the value entered is th
 When the page is rendered a list populates with all local storage variables.
 The item’s local storage values can be edited or deleted permanently by clicking the pencil or trash can to the right.
 Upon choosing to edit an item a modal will appear allowing the user to update the value in local storage.
+The command "ionic serve" is used to start the application.
 ##
 
 #
